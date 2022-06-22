@@ -22,7 +22,7 @@
 
 ### Ⅱ. 클라이언트 - 서버 모델이란?
 
-<img src=".\assets\client-server.png" alt="client-server"  />
+<img src="./assets/Module 1/client-server.png" alt="client-server"  />
 
 - 컴퓨팅에서 **클라이언트**는 사람이 컴퓨터 서버에 요청을 보내기 위해 상호 작용하는 웹 브라우저 또는 데스크탑 어플리케이션일 수 있습니다.
 - **서버**는 일종의 가상 서버인 Amazon Elastic Cloud Compute(Amazon EC2)와 같은 서비스일 수 있습니다.
